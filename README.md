@@ -22,7 +22,8 @@ Project Coordinator
 
 Dear Mr. [Last Name],
 
-I am writing to introduce myself. My name is Kittiphop Phanthachart  and I am in charge of R&D Engineering at Signal Gate company I am going to be in town next week and. i am interested in meeting withyou to discuss cooperating on SW/HW Co Design. 
+I am writing to introduce myself. My name is Kittiphop Phanthachart  and I am in charge of R&D Engineering at Signal Gate company 
+I am going to be in town next week and. i am interested in meeting withyou to discuss cooperating on SW/HW Co Design. 
 Let me know if you would be interested 
 
 Regards,
