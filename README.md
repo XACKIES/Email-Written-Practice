@@ -1,4 +1,5 @@
 # Email-Written-Practice 
+created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year Engineering student)
 
 ## Introducing Myself 
 
@@ -16,3 +17,6 @@ Best regards,
 Kittiphop Phanthachart
 Project Coordinator
 ```
+
+
+
