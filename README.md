@@ -48,6 +48,24 @@ Project Coordinator
 ```
 
 
+```
+Dear Mr. [Last Name],
+
+My name is Kittiphop Phanthachart . I am writing to tell you a little about my company and the work we do.
+We hae been in the cutting edge Technology for ten years and we have a respectable amount of the market share .
+I am interrelated in  discussing a possible partnership  with you.  Would you be available to meet?
+
+I look forward  to hearing from you.
+
+Thanks,
+Kittiphop Phanthachart
+Project Coordinator
+
+```
+
+
+
+
 
 
 
