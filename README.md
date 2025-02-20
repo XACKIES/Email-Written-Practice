@@ -3,7 +3,7 @@ created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year 
 
 ## Introducing Myself 
 
-```txt
+```
 Dear Mr. [Last Name],
 
 My name is Kittiphop Phanthachart. I am currently looking for R&D Managers in the Bangkok area, and my friend mentioned you.
@@ -32,4 +32,22 @@ Project Coordinator
 
 
 ```
+
+
+```
+Dear Mr. [Last Name],
+
+My name is Kittiphop Phanthachart , My partner gave me your email address . 
+I am writing to trll you a little about my operation with a view to doing business in the future. 
+Let me know  if you would linnk to hear a little about what we do.
+
+Regards,
+Kittiphop Phanthachart
+Project Coordinator
+
+```
+
+
+
+
 
