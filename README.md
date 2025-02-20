@@ -63,7 +63,16 @@ Project Coordinator
 
 ```
 
+```
+Dear Mr. [Last Name],
 
+My name is Kittiphop Phanthachart . I the Project Coordinator of Signal Gates international. We are a  Satellite Communication Service.
+I would like to talk with you about what we might be able to do for your company.We are launching a Satellite in your country and would like to add you to our service,
+Let me know when a convenient time to speak would be.
+
+Thanks,
+Kittiphop Phanthachart
+Project Coordinator
 
 
 
